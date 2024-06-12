@@ -1,1 +1,16 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"site/sections/ItWorks.tsx","name":"It Works!"},{"__resolveType":"Footer"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Preview site/sections/navbar.tsx"
+    },
+    {
+      "__resolveType": "site/sections/section-1.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10680/5a549f2a-72ed-4718-bfbc-47ad2d9c67e4",
+      "width": 100,
+      "height": 500
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
