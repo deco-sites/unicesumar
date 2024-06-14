@@ -10,6 +10,12 @@
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10680/5a549f2a-72ed-4718-bfbc-47ad2d9c67e4",
       "width": 100,
       "height": 500
+    },
+    {
+      "__resolveType": "site/sections/Cursos.tsx",
+      "cursos": {
+        "__resolveType": "site/loaders/cursos.ts"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
